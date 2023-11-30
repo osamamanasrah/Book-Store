@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThirdExample</string>
+    <string name="get_books">Get Books</string>
+    <string name="choose_a_category">Choose a category:</string>
+</resources>
